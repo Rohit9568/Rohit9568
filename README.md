@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Developer as well as practicing DSA on Leetcode. I aspire to be a Data Scientist one day and have a zeal to learn and innovate something in technology.
+I am Full Stack Developer as well as practicing DSA on Leetcode. I aspire to be a SDE one day and have a zeal to learn and innovate something in technology.
 
 
 ## 🌐 Socials:
