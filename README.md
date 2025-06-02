@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am Full Stack Developer as well as practicing DSA on Leetcode. I aspire to be a SDE one day and have a zeal to learn and innovate something in technology.
+Hi, I'm Rohit Sharma, a passionate and curious Full Stack Developer with a strong foundation in Data Structures and Algorithms. Currently sharpening my skills through hands-on projects and regular problem-solving on platforms like LeetCode, I aspire to become a Software Development Engineer (SDE) and contribute meaningfully to the tech world.
+
+I love building scalable web applications and exploring emerging technologies in both software and AI/ML domains. Whether it's front-end design, back-end development, or diving into cloud infrastructure, I enjoy the challenge of transforming ideas into impactful products.
+
+📍 I believe in continuous learning, innovation, and collaboration—and I'm always excited to work on projects that solve real-world problems.
 
 
 ## 🌐 Socials:
